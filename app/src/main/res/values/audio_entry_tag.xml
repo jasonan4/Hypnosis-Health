@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id"
+        name="audio_entry_filename" />
+    <item type="id"
+        name="boolean_key" />
+    <item type="id"
+        name="audio_assign_hashCode" />
+    <item type="id"
+        name="survey_assign_patientData" />
+    <item type="id"
+        name="survey_choose_number" />
+</resources>
